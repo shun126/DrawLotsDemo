@@ -1,0 +1,3 @@
+[submodule "Plugins/DrawLots"]
+	path = Plugins/DrawLots
+	url = https://github.com/shun126/DrawLots.git
